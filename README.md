@@ -1,2 +1,2 @@
 # common_functions
-all Common Functions For Android Application
+All Common Functions For Android Application Devlopment.
